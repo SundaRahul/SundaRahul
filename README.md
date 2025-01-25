@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SundaRahul
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on new Develpment project 
+- 📫 LinkedIn https://www.linkedin.com/in/rahul-sunda-962553229/
+
 
 <!---
 SundaRahul/SundaRahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
