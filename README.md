@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SundaRahul
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning MERN
+- 👀 I’m Full Stack Developer 
+- 🌱 Building Scalable and efficient project.
 - 💞️ I’m looking to collaborate on new Develpment project 
 - 📫 LinkedIn https://www.linkedin.com/in/rahul-sunda-962553229/
 
